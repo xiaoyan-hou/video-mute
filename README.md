@@ -18,7 +18,7 @@
 
 1. 克隆项目到本地
 ```bash
-git clone [git@github.com:xiaoyan-hou/video-mute.git]
+git clone git@github.com:xiaoyan-hou/video-mute.git
 ```
 
 2. 使用Xcode打开 `videoMute.xcodeproj`
